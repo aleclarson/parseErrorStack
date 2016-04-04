@@ -1,0 +1,7 @@
+{
+  "name": "parseErrorStack",
+  "version": "1.0.0",
+  "dependencies": {
+    "stacktrace-parser": "0.1.3"
+  }
+}
